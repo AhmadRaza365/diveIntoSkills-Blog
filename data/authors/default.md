@@ -1,16 +1,14 @@
 ---
-name: Tails Azimuth
-avatar: /static/images/avatar.png
-occupation: Professor of Atmospheric Science
-company: Stanford University
-email: address@yoursite.com
-twitter: https://twitter.com/Twitter
-linkedin: https://www.linkedin.com
-github: https://github.com
+name: Ahmad Raza
+avatar: /static/images/avatar.jpg
+occupation: MERN Stack Developer
+company: Freelancer
+email: ahmadraza365pro@gmail.com
+twitter: https://twitter.com/AhmadRaza365
+linkedin: https://www.linkedin.com/in/ahmadraza365/
+github: https://github.com/AhmadRaza365
 ---
 
-Tails Azimuth is a professor of atmospheric sciences at the Stanford AI Lab. His research interests includes complexity modelling of tailwinds, headwinds and crosswinds.
+I am Ahmad Raza from Pakistan. I am a Software Engineer with expertise in Web Development. I have professional experience in MERN Stack development, UI/UX Designing, and Content Creation.
 
-He leads the clean energy group which develops 3D air pollution-climate models, writes differential equation solvers, and manufactures titanium plated air ballons. In his free time he bakes raspberry pi.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+I have worked with local as well as international clients and worked on a range of projects from LMS system to e-commerce stores. Also, I was awarded an accomplished professional at Tech Nation Conference 2022 in Pakistan.
